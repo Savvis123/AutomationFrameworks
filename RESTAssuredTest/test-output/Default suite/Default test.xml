@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="5CG6333HFM" name="TestFramework.basics" tests="1" failures="0" timestamp="25 Apr 2019 07:21:00 GMT" time="3.625" errors="0">
+  <testcase name="getPlaceAPI" time="3.599" classname="TestFramework.basics"/>
+</testsuite>

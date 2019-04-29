@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="Verify Geocoding and Reverse GeocodingAPI of Google" skipped="0" tests="2" time="8.43" timestamp="2019-04-25T14:36:22.592+05:30[Asia/Calcutta]"><testcase name="Verify Google Geocoding API with Valid data"><failure message="Verify Result for GeoCoding Api &#10;Expected: a value equal to or greater than &lt;1&gt;&#10;     but: &lt;0&gt; was less than &lt;1&gt;" type="java.lang.AssertionError">Verify Result for GeoCoding Api 
+Expected: a value equal to or greater than &lt;1&gt;
+     but: &lt;0&gt; was less than &lt;1&gt;</failure><system-err>Verify Result for GeoCoding Api 
+Expected: a value equal to or greater than &lt;1&gt;
+     but: &lt;0&gt; was less than &lt;1&gt;&#13;
+com.googleapi.steps.GoogleGeoCodeStep.response_should_have_result_node(GoogleGeoCodeStep.java:69)&#13;
+✽.Response should have result node(src/test/resources/features/api/googlegeo.feature:9)&#13;
+</system-err></testcase><testcase name="Verify Google Reverse Geocoding API with Valid data"><failure message="Verify Result for GeoCoding Api &#10;Expected: a value equal to or greater than &lt;1&gt;&#10;     but: &lt;0&gt; was less than &lt;1&gt;" type="java.lang.AssertionError">Verify Result for GeoCoding Api 
+Expected: a value equal to or greater than &lt;1&gt;
+     but: &lt;0&gt; was less than &lt;1&gt;</failure><system-err>Verify Result for GeoCoding Api 
+Expected: a value equal to or greater than &lt;1&gt;
+     but: &lt;0&gt; was less than &lt;1&gt;&#13;
+com.googleapi.steps.GoogleGeoCodeStep.response_should_have_result_node(GoogleGeoCodeStep.java:69)&#13;
+✽.Response should have result node(src/test/resources/features/api/googlegeo.feature:32)&#13;
+</system-err></testcase></testsuite>

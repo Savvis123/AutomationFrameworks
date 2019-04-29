@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3990" started-at="2019-04-23T05:30:17Z" finished-at="2019-04-23T05:30:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3990" started-at="2019-04-23T05:30:17Z" finished-at="2019-04-23T05:30:21Z">
+      <class name="TestCases.GetAllBooks">
+        <test-method status="PASS" signature="getAllBooksTest()[pri:0, instance:TestCases.GetAllBooks@735b5592]" name="getAllBooksTest" duration-ms="3252" started-at="2019-04-23T11:00:18Z" finished-at="2019-04-23T11:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllBooksTest -->
+        <test-method status="PASS" signature="verifyErrorCode()[pri:0, instance:TestCases.GetAllBooks@735b5592]" name="verifyErrorCode" duration-ms="711" started-at="2019-04-23T11:00:21Z" finished-at="2019-04-23T11:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyErrorCode -->
+      </class> <!-- TestCases.GetAllBooks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
